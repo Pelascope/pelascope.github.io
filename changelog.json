@@ -1,5 +1,14 @@
 [
   {
+    "date": "February 7, 2020",
+    "title": "v2.2",
+    "notes": [
+      "Reorder playlist queues",
+      "Add songs directly from Apple Music by sharing the song URL",
+      "General improvements and bug fixes"
+    ]
+  },
+  {
     "date": "January 4, 2020",
     "title": "v2.1",
     "notes": [
