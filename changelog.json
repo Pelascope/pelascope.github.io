@@ -1,4 +1,14 @@
 [
+  {    
+    "date": "March 16, 2020",
+    "title": "v2.31",
+    "notes": [
+      "Fixed several bugs impairing playback experience (e.g. slow loading, app freezing, and more -- all fixed).",
+      "Improved search bar so that results are loaded faster",
+      "Devices running iOS 12 and lower can now add songs directly from Apple Music.",
+      "When you open the app, the last playlist you were listening to will be queued up and ready to go."
+    ]
+  }, 
   {
     "date": "March 7, 2020",
     "title": "v2.3",
