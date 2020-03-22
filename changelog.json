@@ -1,4 +1,15 @@
 [
+  
+  {
+    "date": "March 22, 2020",
+    "title": "v2.32",
+    "notes": [
+      "Added dark \"Obsidian Mode\" theme.",
+      "Added significant performance improvements.",
+      "Share to Instagram with Sticker",
+      "General improvements and bug fixes."
+    ]
+  },
   {    
     "date": "March 16, 2020",
     "title": "v2.31",
