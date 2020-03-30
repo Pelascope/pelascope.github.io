@@ -1,5 +1,13 @@
 [
-  
+  {
+    "date": "March 30, 2020",
+    "title": "v2.40",
+    "notes": [
+      "Add songs from your library.",
+      "Fixed network bug that prevented playback of Apple Music songs.",
+      "Lots of improvements and bug fixes."
+    ]
+  }, 
   {
     "date": "March 22, 2020",
     "title": "v2.32",
