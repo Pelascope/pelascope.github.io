@@ -1,5 +1,18 @@
 [
   {
+    "date": "April 18, 2020",
+    "title": "v2.42.0",
+    "notes": [
+      "Share your trimmed songs with a link.",
+      "Zoom on a range to precisely trim songs.",
+      "Redesigned user interface.",
+      "Higher-resolution music artwork.",
+      "Fixed bugs in the music player.",
+      "Fixed bugs in the search page.",
+      "Fixed bugs in share extension."
+    ]
+  },
+  {
     "date": "April 7, 2020",
     "title": "v2.41.2",
     "notes": [
