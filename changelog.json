@@ -1,4 +1,13 @@
-[
+[ 
+  {
+  "date":"May 2, 2020",
+  "title":"v2.44.0",
+  "notes":[
+    "Upload your own playlist artwork",
+    "Design improvements",
+    "Bug fixes"
+  ]
+  },
   {
     "date": "April 18, 2020",
     "title": "v2.42.0",
