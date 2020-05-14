@@ -1,5 +1,15 @@
 [ 
   {
+    "date":"May 14, 2020",
+    "title":"v2.45.1",
+    "notes":[
+      "View song suggestions that can be added instantly.",
+      "Edit track information for songs under the \"My Music\" section.",
+      "Reduced the app size.",
+      "Fixed various bugs and added improvements."
+    ]
+  },
+  {
   "date":"May 10, 2020",
   "title":"v2.45.0",
   "notes":[
