@@ -1,8 +1,15 @@
-[ 
+[
   {
-    "date":"May 14, 2020",
-    "title":"v2.45.1",
-    "notes":[
+    "date": "May 22, 2020",
+    "title": "v2.46.0",
+    "notes": [
+      "Includes important improvements and bug fixes."
+    ]
+  },
+  {
+    "date": "May 14, 2020",
+    "title": "v2.45.1",
+    "notes": [
       "View song suggestions that can be added instantly.",
       "Edit track information for songs under the \"My Music\" section.",
       "Reduced the app size.",
@@ -10,24 +17,24 @@
     ]
   },
   {
-  "date":"May 10, 2020",
-  "title":"v2.45.0",
-  "notes":[
-    "Import audio from videos (e.g. from a screen recording).",
-    "Add GIFs (choose from millions of GIFs via GIPHY).",
-    "View your play count for each track.",
-    "Easily recognize explicit songs in search results.",
-    "Fixed lots of bugs and added improvements."
-  ]
+    "date": "May 10, 2020",
+    "title": "v2.45.0",
+    "notes": [
+      "Import audio from videos (e.g. from a screen recording).",
+      "Add GIFs (choose from millions of GIFs via GIPHY).",
+      "View your play count for each track.",
+      "Easily recognize explicit songs in search results.",
+      "Fixed lots of bugs and added improvements."
+    ]
   },
   {
-  "date":"May 2, 2020",
-  "title":"v2.44.0",
-  "notes":[
-    "Upload your own playlist artwork",
-    "Design improvements",
-    "Bug fixes"
-  ]
+    "date": "May 2, 2020",
+    "title": "v2.44.0",
+    "notes": [
+      "Upload your own playlist artwork",
+      "Design improvements",
+      "Bug fixes"
+    ]
   },
   {
     "date": "April 18, 2020",
@@ -67,7 +74,7 @@
       "Fixed network bug that prevented playback of Apple Music songs.",
       "Lots of improvements and bug fixes."
     ]
-  }, 
+  },
   {
     "date": "March 22, 2020",
     "title": "v2.32",
@@ -78,7 +85,7 @@
       "General improvements and bug fixes."
     ]
   },
-  {    
+  {
     "date": "March 16, 2020",
     "title": "v2.31",
     "notes": [
@@ -87,7 +94,7 @@
       "Devices running iOS 12 and lower can now add songs directly from Apple Music.",
       "When you open the app, the last playlist you were listening to will be queued up and ready to go."
     ]
-  }, 
+  },
   {
     "date": "March 7, 2020",
     "title": "v2.3",
