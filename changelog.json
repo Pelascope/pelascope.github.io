@@ -1,5 +1,14 @@
 [
   {
+    "date": "May 28, 2020",
+    "title": "v2.47.0",
+    "notes": [
+      "The app is now 100% ad-free for all users.",
+      "Improved video import experience.",
+      "Bug fixes and general improvements."
+    ]
+  },
+  {
     "date": "May 22, 2020",
     "title": "v2.46.0",
     "notes": [
