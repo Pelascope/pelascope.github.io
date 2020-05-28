@@ -25,9 +25,6 @@ exports.writeToChangelog = (notes, version) => {
 
   // Add the release notes to the changelog file.
   fs.writeFileSync(changelog, JSON.stringify(releaseNotes, null, 2));
-
-  // Commit changes
-  commit(version);
 }
 
 // Returns date in the format Month dd, YYYY (e.g. January 1, 2020).
