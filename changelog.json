@@ -1,5 +1,16 @@
 [
   {
+    "date": "June 17, 2020",
+    "title": "v2.48.0",
+    "notes": [
+      "You can now add custom artwork to your music.",
+      "Loops now contribute to a track's play count.",
+      "Added some easter eggs (hint: keep an eye on the \"Now Playing\").",
+      "Fixed bugs related to permissions, video import, and music playback.",
+      "Added tons of improvements under the hood."
+    ]
+  },
+  {
     "date": "May 28, 2020",
     "title": "v2.47.0",
     "notes": [
