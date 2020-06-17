@@ -1,6 +1,5 @@
 const fs = require('fs');
 const { parseChangelog } = require('./parse');
-const { commit } = require('./commit');
 
 const changelog = 'changelog.json';
 
