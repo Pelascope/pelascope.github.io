@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { parseChangelog } = require('./parse');
 
-const changelog = 'changelog.json';
+const changelog = '../changelog.json';
 
 /// Writes to `./changelog.json` file in same directory.
 /// - Parameters:
