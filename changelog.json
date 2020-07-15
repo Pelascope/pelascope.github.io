@@ -1,5 +1,13 @@
 [
   {
+    "date": "July 15, 2020",
+    "title": "v2.50.0",
+    "notes": [
+      "Playlists can be reordered by dragging them to a new position.",
+      "Fixed bugs and added several improvements."
+    ]
+  },
+  {
     "date": "June 25, 2020",
     "title": "v2.49.0",
     "notes": [
