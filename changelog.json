@@ -1,5 +1,18 @@
 [
   {
+    "date": "August 11, 2020",
+    "title": "v3.0.0",
+    "notes": [
+      "Introducing Pelascope Pro! Unlock a treasure trove of premium features that will enhance your music experience for just $1.99/week (USD).",
+      "Create mulitple ranges.",
+      "Loop songs any number of times.",
+      "Import local audio files",
+      "Download audio by pasting URLs",
+      "Add audio files from anywhere by sharing them to the app.",
+      "Lots of bug fixes and performance improvements."
+    ]
+  },
+  {
     "date": "July 15, 2020",
     "title": "v2.50.0",
     "notes": [
