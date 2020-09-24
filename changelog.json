@@ -1,5 +1,20 @@
 [
   {
+    "date": "September 24, 2020",
+    "title": "v3.10.0",
+    "notes": [
+      "Import your playlists in one tap—share the URL from Spotify or Apple Music, or tap \"Import Music\" in Pelascope.",
+      "Most premium features are available to free users if they watch a short ad.",
+      "Improved the search page to make it faster and easier to use.",
+      "Fixed bugs affecting playback in the \"My Music\" section.",
+      "Fixed bug related to extended ranges.",
+      "Fixed scrolling interface bug.",
+      "Fixed bug related to file importing.",
+      "Support for iOS 14.",
+      "Applied to YC!"
+    ]
+  },
+  {
     "date": "August 11, 2020",
     "title": "v3.0.0",
     "notes": [
