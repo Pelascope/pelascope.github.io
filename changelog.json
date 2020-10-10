@@ -1,5 +1,14 @@
 [
   {
+    "date": "October 10, 2020",
+    "title": "vv3.11.0",
+    "notes": [
+      "We added new pricing options as requested.",
+      "You can share a 30 second snippet (for songs under the \"My Music\" tab).",
+      "We fixed some bugs and added improvements throughout."
+    ]
+  },
+  {
     "date": "September 24, 2020",
     "title": "v3.10.0",
     "notes": [
