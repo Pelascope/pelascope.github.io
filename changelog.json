@@ -1,5 +1,13 @@
 [
   {
+    "date": "November 23, 2020",
+    "title": "v3.13.0",
+    "notes": [
+      "Share trimmed songs with a friend. (The song will convert between Apple Music or Spotify depending on what your friend uses.)",
+      "Lots of bug fixes and performance improvements."
+    ]
+  },
+  {
     "date": "November 9, 2020",
     "title": "v3.12.0",
     "notes": [
