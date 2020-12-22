@@ -1,5 +1,17 @@
 [
   {
+    "date": "December 21, 2020",
+    "title": "v3.14.0",
+    "notes": [
+      "Removed ads for *everyone*",
+      "Redesigned the player and home screen",
+      "Enter start/stop values directly instead of dragging the slider",
+      "Apple Music player is now *ultra smooth* (a huge improvement)",
+      "Fixed bugs in the audio importer",
+      "Smaller app size and performance improvements"
+    ]
+  },
+  {
     "date": "November 23, 2020",
     "title": "v3.13.0",
     "notes": [
