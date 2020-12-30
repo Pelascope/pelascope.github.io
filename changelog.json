@@ -1,5 +1,14 @@
 [
   {
+    "date": "December 30, 2020",
+    "title": "v28.12.2020",
+    "notes": [
+      "Reduced app size by 90%",
+      "Bug fixes and performance improvements",
+      "New app version format follows day, month, and year so you always know how fresh the app is"
+    ]
+  },
+  {
     "date": "December 21, 2020",
     "title": "v3.14.0",
     "notes": [
