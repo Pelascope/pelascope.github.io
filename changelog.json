@@ -1,5 +1,14 @@
 [
   {
+    "date": "January 13, 2021",
+    "title": "v2021.01.12",
+    "notes": [
+      "Minor redesign",
+      "Fixed Apple Music bugs",
+      "Important fixes and improvements"
+    ]
+  },
+  {
     "date": "December 30, 2020",
     "title": "v28.12.2020",
     "notes": [
