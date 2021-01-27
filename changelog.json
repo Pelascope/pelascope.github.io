@@ -1,5 +1,14 @@
 [
   {
+    "date": "January 27, 2021",
+    "title": "v2021.01.26",
+    "notes": [
+      "Major redesign of the home screen and the music player",
+      "Performance and stability improvements",
+      "Chat with us and have your voice heard"
+    ]
+  },
+  {
     "date": "January 13, 2021",
     "title": "v2021.01.12",
     "notes": [
