@@ -1,11 +1,20 @@
 [
   {
+    "date": "March 2, 2021",
+    "title": "v2021.03.01",
+    "notes": [
+      "Fixed a bug that made the app freeze while using Apple Music.",
+      "Fixed an issue with the Apple Music/Spotify app extension."
+    ]
+  },
+  {
     "date": "February 25, 2021",
     "title": "v2021.02.24",
     "notes": [
       "Share your playlists. You can finally share playlists! We automatically convert songs between Apple Music and Spotify, so your playlist link works for both streaming services.",
       "Direct music import. We replaced the search function with something better and faster. You can import songs or playlists directly from the Apple Music and Spotify apps. Just choose a song, share it, and tap the Pelascope icon. That's it!",
-      "Recently played songs. View your recent play history on the home screen.", "App preferences. You'll find two new preferences in settings. Automatically open the music player whenever a song is played, and apply GIFs to the music player.",
+      "Recently played songs. View your recent play history on the home screen.",
+      "App preferences. You'll find two new preferences in settings. Automatically open the music player whenever a song is played, and apply GIFs to the music player.",
       "Minor design changes. Minor adjustments to color, typography, and layout in select portions of the app.",
       "Bug fixes and improvements. Corrected issue with buggy scrolling on music player. Reduced memory consumption when applying GIFs."
     ]
